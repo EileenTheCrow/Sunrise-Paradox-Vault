@@ -13,7 +13,7 @@ LANDING_PAGE = "home"
 LANDING_TITLE = "Sunrise Paradox"
 PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
-REPO_URL = "https://github.com/EileenTheCrow/Sunrise-Paradox-Vault"
+REPO_URL = "https://github.com/ppeetteerrs/obsidian-zola.git"
 # (Optional) Site title in navbar
 SITE_TITLE = "Sunrise Paradox"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
