@@ -1,0 +1,6 @@
+Parent Page: [[Combat]]
+
+Whenever a situation is determined to be High [[Threat]] by the [[Maker]], Turn Order is determined and the game progresses from there in a turn by turn state. Turn Order is determined at the start of each round after all actors have gone. Turn order is determined as such: All actors have a certain Turn Priority value. This is found by taking your base [[Reflex]] score and then adding +3 if you still have a [[Reflex Action]] at the end of the round, and then doing doing a [[Skill Test]] with that as the target value. This [[Skill Test]] cannot be empowered. For however many successes you got in your draw add +1 to your Turn Priority. All actors then go in order from highest Turn Priority to lowest, with ties being broken by drawing additional cards til one actor succeeds and the other fails (these do not increase your Turn Priority).
+So for example if your character managed to keep their [[Reflex Action]] until the end of the round and had a 5 [[Reflex]] score, they would have an 8 for their Turn Priority Value. They then draw their hand, getting a 2, 8, and Jack giving them a total of 2 successes, which makes their final Turn Priority 10. They would then go before all actors lower than 10 Turn Priority and after all actors with higher then 10 Turn Priority.
+
+Next Page: [[Actions]]

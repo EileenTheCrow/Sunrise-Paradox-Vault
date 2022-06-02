@@ -1,0 +1,5 @@
+Parent Page: [[Home]]
+
+Combat takes place in a turn by turn fashion, moving from one actor to the next as they both try to incapacitate their opponents. When combat starts the [[Maker]] determines [[Turn Order]]. Once [[Turn Order]] has been decided every actor in combat gets a [[Reflex Action]] and combat proceeds until every actor has gone. Then all actors in combat proceed as normal, getting a Primary, Secondary, and [[Reflex Action]] to use on each of their turns (see [[Actions]]). At the end of a round, the [[Maker]], redetermines the [[Turn Order]] for the next round. Combat continues this way until the [[Threat]] of the situation is moderate or lower, which the [[Maker]] will determine. Combat ends whenever one side has no more actors left willing to fight due to retreating, dying, surrendering, or a cease fire.
+
+Next Page: [[Turn Order]]

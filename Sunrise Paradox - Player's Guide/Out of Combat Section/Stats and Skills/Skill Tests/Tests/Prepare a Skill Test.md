@@ -1,0 +1,3 @@
+Parent Page: [[Skill Test]]
+
+Before a player tries to [[Skill Test]], they can prepare for the test. When a player prepares a test they must come up with a test they can complete that they believe will help their odds of completing a the original test. The [[Maker]] decides an appropriate challenge score for the test and the player attempts it. If the player succeeds at the test they get a [[Foresight]] bonus to the [[Skill Test]] roll. The player can get no more than 2 [[Foresight]] to their [[Skill Test]]. Other players may also prepare for that player's test, providing the same bonus as before. Each player may only attempt 1 preparation for any given [[Skill Test]].

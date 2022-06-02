@@ -1,0 +1,3 @@
+Parent Page: [[Skills]]
+
+Charm represents your ability to be convincing and disarming. It is the counterpart to [[Coerce]]. Someone who is good at charm may be able to talk their way out of a fight, trick a checkpoint guard into saying too much, or convince a someone to go all in on a risky hand. In general charm is any person to person interaction that uses positive emotions to sway someone towards what you want. Charm can be used to lie, bargain, persuade, and distract others, so long as the interaction uses positive emotional manipulation.

@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "31e312f8e09a234e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4df78963bb0a036b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Home.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1617b1222d6b7735",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6b9fe8da9571774",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78bab2182deefd5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "df4b30f88880380b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbdf54290703e781",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b8ec7cb82d221b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dad6e4fada699c49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8234b5da50b61d96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4df78963bb0a036b",
+  "lastOpenFiles": [
+    "Home.md",
+    "Sunrise Paradox - Player's Guide/Character Creation Section/Perk Section/Archetype.md",
+    "Sunrise Paradox - Player's Guide/Character Creation Section/Perk Section/Archetype Trees/Oracle.md",
+    "Sunrise Paradox - Player's Guide/Character Creation Section/Perk Section/Archetype Trees/Pyschic.md",
+    "Sunrise Paradox - Player's Guide/Character Creation Section/Perk Section/Archetype Trees/Sharpshooter.md",
+    "Sunrise Paradox - Player's Guide/Character Creation Section/Perk Section/Archetype Trees/Survivalist.md",
+    "Sunrise Paradox - Player's Guide/Combat Section/Stances/Prone.md",
+    "Sunrise Paradox - Player's Guide/Combat Section/Stances/Crouched.md",
+    "Sunrise Paradox - Player's Guide/Character Creation Section/Perk Section/Archetype Trees/Tech.md",
+    "Sunrise Paradox - Player's Guide/Character Creation Section/Perk Section/Archetype Trees/Spec-Op.md"
+  ]
+}

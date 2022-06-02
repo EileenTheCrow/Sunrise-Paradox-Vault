@@ -1,0 +1,3 @@
+Parent Page: [[Skills]]
+
+Electronics, like [[Mechanics]], is a measure of someone's ability to manipulate, create, or enhance electronic or computer systems. Electronics can be used to bypass computer security systems, create algorithms, rewire power systems, etc. Electronics diverts from [[Literacy]] as a skill because it assumes that electronics has a more hands on component. Though [[Electronics]] uses some memorized information they are skills that require analytical, computational, and syntactical techniques. 

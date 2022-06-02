@@ -1,0 +1,6 @@
+Parent Page: [[Home]]
+
+### Flow of Play
+Whenever you and your party are not in immediate danger, the game will follow a more open ended flow of events. While you are out of [[Combat]] you may use your [[skills]], equipment, and words to solve problems that you might face in the zone. Your character has 3 [[Stats]] that dictate their abilities. These are used as a rough guide to how well your character can perform and physical and mental tasks and can help you when role playing your character. As your story unfolds and the obstacles and dangers you face become more grave, you will need to use your skills and abilities to overcome the challenges of the zone. The [[Maker]] will use [[Threat]] to communicate the danger of a situation to you. So long as the [[Threat]] is Moderate or Low, you won't need to use [[Actions]] to resolve a situation. However, if the [[Threat]] raises to high, you will likely have a fight, chase, or other hyper intense scenario that must be resolved using [[Actions]]. 
+
+Next Page: [[Stats]]

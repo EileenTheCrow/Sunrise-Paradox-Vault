@@ -1,0 +1,3 @@
+Parent Page: [[Skills]]
+
+Observation is your ability to find clues, people, and other objects in difficult places. Using observation can reveal elements that others might miss, but it also is useful in spotting general connections between things. Think of observation as your sensory skills and your intuition, though you may not have trained knowledge on a subject, you may be able to deduct a basic idea of how it works if you are qualified in observation.

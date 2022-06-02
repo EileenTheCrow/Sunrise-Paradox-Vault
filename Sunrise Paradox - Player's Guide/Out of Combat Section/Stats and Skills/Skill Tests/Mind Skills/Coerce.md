@@ -1,0 +1,3 @@
+Parent Page: [[Skills]]
+
+Coerce is the negative counterpart to [[Charm]]. It is used the same way [[Charm]] is, but is associated with methods that use forms of negative emotions to get what you want. Intimidating someone else into doing what you ask, for example. In this same vein using other negative emotions such as fear, sadness, anger, grief, or apathy to lead a conversation falls under Coerce
