@@ -8,24 +8,27 @@ kanban-plugin: basic
 
 - [ ] [[Maker]]
 - [ ] Equipment
-- [ ] Perks
-- [ ] [[CQC]]
+- [ ] [[Universal Paths]]
 - [ ] [[Character Creation]]
+
+
+## In-Development
+
 - [ ] [[Commando]]
 - [ ] [[Distortionist]]
 - [ ] [[Guardian]]
-- [ ] [[Oracle]]
 - [ ] [[Pyschic]]
 - [ ] [[Sharpshooter]]
 - [ ] [[Spec-Op]]
-- [ ] [[Survivalist]]
 - [ ] [[Tech]]
+- [ ] [[Status]]
 
 
 ## Revise
 
 - [ ] [[Cover]]
-- [ ] [[Stealth]]
+- [ ] [[Sunrise Paradox - Player's Guide/Out of Combat Section/Other Rules/Observation and Stealth/Stealth]]
+- [ ] [[Stance]]
 
 
 ## Rewrite
@@ -35,16 +38,18 @@ kanban-plugin: basic
 
 ## Review
 
-- [ ] [[Actions]]
 - [ ] [[Skills]]
+- [ ] [[Oracle]]
+- [ ] [[Survivalist]]
+- [ ] [[CQC]]
 
 
 ## Alpha
 
+- [ ] [[Actions]]
 - [ ] [[Crouched]]
 - [ ] [[Prone]]
 - [ ] [[Skill Test]]
-- [ ] [[Stance]]
 
 
 ## Beta
@@ -53,5 +58,13 @@ kanban-plugin: basic
 
 ## Complete
 
+**Complete**
 
 
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic"}
+```
+%%

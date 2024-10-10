@@ -1,3 +1,0 @@
-Parent Page: [[Actions]]
-
-You may use this [[Reflex Action]] whenever you see a target [[Run]], [[Sprint]], or [[Fire a weapon]] or during the first round of [[Combat]]. Only one creature may Return Fire in response to an opponent. If the target used a [[Run]] or [[Sprint]] action you may choose to Return Fire at any time during their movement. You may then [[Fire a weapon]] at the target and determine the outcome. If an opponent was using the [[Fire a weapon]] action targeting you, you and your target make a [[Challenge Test]] using your [[reflex]] scores. Whoever succeeds deals a partial hit to their opponent, whoever fails misses their attack.

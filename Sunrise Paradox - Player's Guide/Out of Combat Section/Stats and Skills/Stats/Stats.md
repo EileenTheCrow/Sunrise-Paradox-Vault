@@ -17,16 +17,16 @@ This stat represents your character's wit, cunning, and charisma. Your character
 
 When you first make your character you have a total of 16 points to distribute to the stats, with any stat going no higher than 10. The following chart can be used as a rough estimate of your abilities:
 
-0. You are dead.
-1. You are inept in this ability.
-2. You find great difficulty in this ability
-3. You find difficulty in this ability.
-4. You are below average in this ability.
-5. You are average in this ability.
-6. You are above average in this ability.
-7. You are gifted in this ability.
-8. You are a prodigy in this ability.
-9. You are a master at this ability.
-10. You are one of the best.
+0: You are dead.
+1: You are inept in this ability.
+2: You find great difficulty in this ability
+3: You find difficulty in this ability.
+4: You are below average in this ability.
+5: You are average in this ability.
+6: You are above average in this ability.
+7: You are gifted in this ability.
+8: You are a prodigy in this ability.
+9: You are a master at this ability.
+10: You are one of the best.
 
 Next Page: [[Skills]]

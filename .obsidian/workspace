@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
-            "mode": "source",
-            "source": false
+            "file": "Sunrise Paradox - Player's Guide/Out of Combat Section/Stats and Skills/Skill Tests/Tests/Challenge Test.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Sunrise Paradox - Player's Guide/Out of Combat Section/Stats and Skills/Skill Tests/Tests/Challenge Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,13 +86,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Sunrise Paradox - Player's Guide/Out of Combat Section/Stats and Skills/Skill Tests/Tests/Challenge Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "aa39dd585d637f27",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -101,15 +110,15 @@
   },
   "active": "4df78963bb0a036b",
   "lastOpenFiles": [
-    "Home.md",
-    "Sunrise Paradox - Player's Guide/Character Creation Section/Perk Section/Archetype.md",
-    "Sunrise Paradox - Player's Guide/Character Creation Section/Perk Section/Archetype Trees/Oracle.md",
-    "Sunrise Paradox - Player's Guide/Character Creation Section/Perk Section/Archetype Trees/Pyschic.md",
-    "Sunrise Paradox - Player's Guide/Character Creation Section/Perk Section/Archetype Trees/Sharpshooter.md",
-    "Sunrise Paradox - Player's Guide/Character Creation Section/Perk Section/Archetype Trees/Survivalist.md",
-    "Sunrise Paradox - Player's Guide/Combat Section/Stances/Prone.md",
-    "Sunrise Paradox - Player's Guide/Combat Section/Stances/Crouched.md",
+    "Sunrise Paradox - Player's Guide/Out of Combat Section/Stats and Skills/Skill Tests/Tests/Detriment.md",
+    "Sunrise Paradox - Player's Guide/Character Creation Section/Equipment/Weapons.md",
+    "Sunrise Paradox - Player's Guide/Character Creation Section/Equipment/Technology.md",
+    "Sunrise Paradox - Player's Guide/Character Creation Section/Equipment/Medicine.md",
+    "Sunrise Paradox - Player's Guide/Out of Combat Section/Stats and Skills/Skill Tests/Tests/Challenge Test.md",
+    "Sunrise Paradox - Player's Guide/Out of Combat Section/Stats and Skills/Skill Tests/Tests/Prepare.md",
+    "Sunrise Paradox - Player's Guide/Out of Combat Section/Stats and Skills/Skill Tests/Tests/Foresight.md",
     "Sunrise Paradox - Player's Guide/Character Creation Section/Perk Section/Archetype Trees/Tech.md",
-    "Sunrise Paradox - Player's Guide/Character Creation Section/Perk Section/Archetype Trees/Spec-Op.md"
+    "Tech.md",
+    "Sunrise Paradox - Player's Guide/Character Creation Section/Perk Section/Archetype Trees/Distortionist.md"
   ]
 }

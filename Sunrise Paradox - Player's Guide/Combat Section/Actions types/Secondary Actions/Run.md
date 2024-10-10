@@ -1,3 +1,0 @@
-Parent Page: [[Actions]], [[Reflex]]
-
-You can use your Secondary or [[Primary Action]] to move a distance equal to your [[Speed]]. Opponents may use their reflex actions to respond. All hits while moving are considered partial hits. If you are [[Crouched]] while moving, each space you move takes twice as much as normal. If you are [[Prone]], each space you move takes 4 times as much as normal as much as normal. For example: if you 30 movement [[Speed]] and you move 2 spaces while crouched and then stop crouching, you will be able to move 2 more spaces, 4 spaces total.

@@ -1,3 +1,3 @@
 Parent Page: [[Skills]]
 
-Survival is your ability to manipulate nature in your favor and your hands on knowledge of the elements. Survival can help you understand general laws of nature as well as predict the behavior of animals and mutants.
+Survival is your ability to manipulate nature in your favor and your hands on knowledge of the elements. Survival can help you understand general laws of nature as well as predict the behavior of animals, mutants, but also relates to your practical understanding of your environment. Survival is a skill you might use to guess if you can jump from a tall place without injury, assess whether an animal is keen to attack your, or approximate what the local weather is likely to be in the next hour.

@@ -1,6 +1,6 @@
 Parent Page: [[Character Creation]]
 
-Perks are abilities that represent a character's growing knowledge. A perk is bought using [[Perk Points]] which are acquired when a character gains a [[Level]]. Perks come in several categories, which are listed below, called trees. Some perks cost an amount of [[Adrenaline]] to use their effects.
+Archetypes are a collection of Paths that represent a character's abilities. As a character levels they will receive Archetype Points to spend on their Archetype paths. Players gain path abilities in order from level 1 to level 3, with each level requiring an archetype point to unlock.
 
 ### Archetypes 
 

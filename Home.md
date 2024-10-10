@@ -11,7 +11,7 @@ Relevant pages:
 - [[Actions]]
 - [[Cover]]
 - [[Stance]]
-- [[Stealth]]
+- [[Sunrise Paradox - Player's Guide/Out of Combat Section/Other Rules/Observation and Stealth/Stealth]]
 - [[Turn Order]]
 
 ### [[Out of Combat]]
@@ -20,6 +20,6 @@ Relevant Pages:
 - [[Skills]]
 - [[Skill Test]]
 - [[Stats]]
-- [[Stealth]]
+- [[Sunrise Paradox - Player's Guide/Out of Combat Section/Other Rules/Observation and Stealth/Stealth]]
 - [[Threat]]
 

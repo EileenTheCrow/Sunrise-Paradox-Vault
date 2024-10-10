@@ -1,6 +1,6 @@
 Parent Page: [[Skill Test]]
 
-If you empower an ace, place it to the side and replace it. Draw an additional hand of 3 cards. Resolve all the empowered cards of the first hand then the second and then pick which hand to keep for the test. 
+When you empower an ace, draw an additional hand of 3 cards. Resolve all the empowered cards of the first hand then the second and then pick which hand to keep for the [[Skill Test]]. 
 
 If you ever draw 2 aces in an empowered hand it becomes a paradox: an automatic extreme success.
 

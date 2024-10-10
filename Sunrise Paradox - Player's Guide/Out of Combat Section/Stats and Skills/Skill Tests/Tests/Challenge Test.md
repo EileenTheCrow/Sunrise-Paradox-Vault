@@ -1,3 +1,3 @@
 Parent Page: [[Skill Test]]
 
-A challenge test is a skill test made against an opposing actor that wishes to stop you. When making a challenge test both actors must perform a [[Skill Test]] with the appropriate skills and compare them against each other. Whichever actor has more successes wins the Challenge Test. If both actors have equal successes draw additional cards until one actor succeeds and the other fails. A challenge test can be empowered.
+A challenge test is a skill test made against an opposing actor that wishes to stop you. When making a challenge test both actors must perform a [[Skill Test]] with the appropriate skills and compare them against each other. Whichever actor has more successes wins the Challenge Test. If both actors have equal successes draw additional cards until one actor succeeds and the other fails. A challenge test can be empowered, but the actors must decide to empower their draw **before** the cards are revealed from the deck.

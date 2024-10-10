@@ -6,4 +6,3 @@ The below stats are determined by your reflex value.
 Other Stuff that involves Reflex:
 [[Stealth]]
 [[Return Fire]]
-[[Find Cover]]

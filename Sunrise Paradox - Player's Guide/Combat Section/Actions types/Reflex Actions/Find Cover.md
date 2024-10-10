@@ -1,3 +1,0 @@
-Parent Page: [[Actions]]
-
-You may use this [[Reflex Action]] when you see an actor [[Fire a weapon]] targeting you or use any other action that targets you from a range greater than 5ft or on the opening round of [[combat]]. When you use this action you may perform a [[Push to Cover]] action. If you end your action with full [[Cover]] the attack misses. If you end your action with less than full [[Cover]], but more than none, the attack is a partial hit, otherwise it is a direct hit.

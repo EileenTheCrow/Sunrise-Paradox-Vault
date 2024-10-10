@@ -1,0 +1,12 @@
+Notes for possible new ideas:
+- Add tarot reads for every card from Ace to King for [[Skill Test]]. Adds intensity to the resolution system
+- The DM decides which cards are used if 2 or more spades are present in the final hand. Otherwise the players pick which cards are read in addition to the outcome.
+- Add more archetype abilities that directly effect RP. Things that just cause effects to happen to NPCs. Should this use monster distinguishments? Mob vs Elite vs Boss? Would this archetype abilities be split into Combat and non-combat paths? Give equal points for both? Disable the use of Non-combat paths when combat begins?
+- DM has static number of cards? Mobs have group focused abilities to make use of cards more efficiently in team environments? Benefits of this mean that as the enemies grow thinner their action economy increases.
+- Fate tests for each round of combat? Maybe it's on the DM side to give them a spicy read for what cool shit happens in the fight in the environment?
+- Social Combat? could use a new set of actions with the same card based mechanics? might be a bit tacky or too front facing
+- Are the skills present representative enough for this system? Maybe the DM can pick up to 3 different skills and the cards order represents which cards apply to which skill TV?
+- Use for face value cards in combat?
+- Hitting 0 takes you out of combat, but also deals a wound to your character, which upon accumulating too many you will eventually die. Some might be permanent some might be healable. Makes death harder to reach and more granular. Static HP system fits much better and rewards Physique builds a bit.
+- Armor works by using cards slotted into the armor slots. When a player takes damage they can use the armor to directly reduce damage they'd receive. Permanently remove the card until rest? Add an action to replenish armor with cards in hand? 1 card per damage instance?
+- Make adrenaline a climbing resource rather then a decrementing one? As the fight goes on the player gets more not less and can use more powerful abilities? Each archetype will have their adrenaline passive that tells them how they can generate adrenaline and since most characters are two archetypes then they will have multiple unique ways to generate adrenaline.

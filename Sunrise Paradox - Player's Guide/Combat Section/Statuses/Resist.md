@@ -1,0 +1,2 @@
+An actor may have "Resist" against some [[Status]] up to a max of 3. An actor with resist instantly cures a number of the corresponding status at the end of their turn equal to the resist value. So an actor with 
+"[[Burning]] Resist 2" will cure 2 tiers of [[Burning]] when their turn ends.
